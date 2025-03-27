@@ -21,6 +21,8 @@ This project is a web application built with React.js for the frontend and Djang
 
 - **_External APIs_**: Integrated APIs for advice, facts, and jokes
 
+  ![API call](https://github.com/treyweldon/Advice-Fact-or-Joke/blob/main/screenshots/afj.png)
+ ![Home Page](https://github.com/treyweldon/Advice-Fact-or-Joke/blob/main/screenshots/afj2.png) 
 
 ### How to Use:
 1. Clone the repository: `git clone https://github.com/treyweldon/Advice-Fact-or-Joke.git`
